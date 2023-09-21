@@ -1,0 +1,4 @@
+[submodule "configFiles"]
+	path = .config
+	url = git@github.com:wojtacha/.config.git
+	branch = main
